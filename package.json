@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "ejs": "2.5.6",
-    "express": "4.15.2"
+    "express": "^4.16.1"
   },
   "devDependencies": {
     "request": "^2.81.0",
@@ -20,12 +20,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndreGenevieveCloutierGagne/ag-cerise"
+    "url": "git+https://github.com/AndreGenevieveCloutierGagne/ag-cerise.git"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreGenevieveCloutierGagne/ag-cerise/issues"
+  },
+  "homepage": "https://github.com/AndreGenevieveCloutierGagne/ag-cerise#readme",
+  "author": ""
 }
