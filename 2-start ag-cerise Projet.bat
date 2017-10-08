@@ -1,4 +1,4 @@
 d:
 cd D:\NodeJs\ag-cerise
-node server.js
+node ag-cerise.js
 pause
